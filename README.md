@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @brughwani
-- 👀 I’m interested in Dart,React Native and web3
+- 👋 Hi, I’m Bhavesh Rughwani
+- 👀 I’m interested in Dart,React  and web3
 - 🌱 I’m currently learning dart and react
 - 💞️ I’m looking to collaborate on projects related to dart
-- 📫 How to reach me ,you can DM me on twitter @brughwani
+- 📫 How to reach me ,you can DM me on twitter @bhaveshmr98
 
 <!---
 brughwani/brughwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
