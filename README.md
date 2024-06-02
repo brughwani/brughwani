@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhavesh Rughwani
-- 👀 I’m interested in Dart,React  and web3
-- 🌱 I’m currently learning dart and react
+- 👀 I’m interested in Dart
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on projects related to dart
 - 📫 How to reach me ,you can DM me on twitter @bhaveshmr98
 
