@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Bhavesh Rughwani
-- 👀 I’m interested in Dart
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on projects related to dart
+- 👀 I’m good at dart,flutter,little bit of nodejs and airtable 
 - 📫 How to reach me ,you can DM me on twitter @bhaveshmr98
 
 <!---
