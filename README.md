@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhavesh Rughwani
-- 👀 I’m good at dart,flutter,little bit of nodejs and airtable 
+- 👀 I’m good at dart,flutter,little bit of firestore,nodejs and airtable 
 - 📫 How to reach me ,you can DM me on twitter @bhaveshmr98
 
 <!---
